@@ -1,0 +1,9 @@
+{
+    "java.debug.settings.console": "externalTerminal",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
